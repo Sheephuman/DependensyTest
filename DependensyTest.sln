@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependensyTest", "DependensyTest\DependensyTest.csproj", "{E806D8BB-24FB-4831-97F3-421D9E94E628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E806D8BB-24FB-4831-97F3-421D9E94E628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E806D8BB-24FB-4831-97F3-421D9E94E628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E806D8BB-24FB-4831-97F3-421D9E94E628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E806D8BB-24FB-4831-97F3-421D9E94E628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC5191C-A485-406F-AFE1-EE44FE5D68B8}
+	EndGlobalSection
+EndGlobal
