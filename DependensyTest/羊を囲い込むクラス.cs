@@ -1,11 +1,6 @@
 ﻿namespace DependensyTest
 {
-    public interface IDependencyInjectionTests
-    {
-        public string 羊を追い込む処理(string sheeps);
-
-        public int 羊を追い込んだ数をカウントする(string sheeps);
-    }
+  
 
 
     public class 羊を囲い込むクラス
