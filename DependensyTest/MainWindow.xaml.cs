@@ -21,7 +21,7 @@ namespace DependensyTest
 
             var injectionTests = new 羊を囲い込むクラス(inject);
 
-            string res = injectionTests.羊を追い込む処理(corralsheepText.Text);
+            string res = injectionTests.tester1(corralsheepText.Text);
 
            
             MessageBox.Show(res.ToString());

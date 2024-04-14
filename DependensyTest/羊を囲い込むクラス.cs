@@ -44,7 +44,7 @@ namespace DependensyTest
         
       
 
-        public string 羊を追い込む処理(string sheeps)
+        public string tester1(string sheeps)
         {
             if (testInjection == null) throw new ArgumentNullException("");
             return testInjection.羊を追い込む処理(sheeps);

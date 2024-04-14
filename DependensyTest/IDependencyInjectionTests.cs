@@ -7,7 +7,7 @@ namespace DependensyTest
     {
         public string 羊を追い込む処理(string sheeps);
 
-        public int tester2(string sheeps);
+        public int 羊をカウントする処理(string sheeps);
     }
 
  
@@ -17,7 +17,7 @@ namespace DependensyTest
     {
 
 
-        public int tester2(string sheeps)
+        public int 羊をカウントする処理(string sheeps)
         {
             string matchPattern = "sheep";
             int count = Regex.Matches(sheeps, matchPattern).Count;
