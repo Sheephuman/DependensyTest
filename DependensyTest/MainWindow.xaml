@@ -8,10 +8,13 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel Orientation="Vertical" VerticalAlignment="Center">
-            <TextBox Text="SheepBell" x:Name="corralsheepText" Width="300" Height="100" Margin="0,0,0,5"/>
+            <TextBox TextWrapping="Wrap" Text="SheepBell" x:Name="corralsheepText" Width="300" Height="100" Margin="0,0,0,5"/>
             <Button Content="test実行" Click="testExecute_Click" x:Name="testExecute" Width="100" Margin="0,0,0,5"/>
-           
-            
+            <Button Content="test2実行" Click="testExecute2_Click" x:Name="testExecute2" Width="100" Margin="0,0,0,5"/>
+            <Button Content="test3実行" Click="testExecute3_Click" x:Name="testExecute3" Width="100" Margin="0,0,0,5"/>
+
+
+
         </StackPanel>
     </Grid>
 </Window>
